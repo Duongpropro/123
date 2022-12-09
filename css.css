@@ -1,0 +1,14 @@
+.wrapper-container{
+    width: 80%;
+    height: 300px;
+    margin: auto;
+    background-color: yellow;
+    padding: 5px;
+}
+h1 {
+    background-color: aqua;
+    color: blue;
+}
+.title {
+    color: blue;
+}
